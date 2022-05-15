@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.map-overlay {
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
+
+
+body {
+	background-color: aquamarine !important;
+	
+}
+
+h1 {
+    text-align: center !important;
+    color: rgb(18, 4, 71) !important;
+}
+h2 {
+    text-align: center !important;
+    color: rgb(18, 4, 71) !important;
+}
+
+.container { 
+  font-family: cursive, sans-serif;
+  font: rgb(18, 4, 71)
+  
+}
